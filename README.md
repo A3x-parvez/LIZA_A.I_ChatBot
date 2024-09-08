@@ -97,5 +97,5 @@ You can customize LIZA's behavior by modifying the `system_instruction` for the 
 
 
 ### Message from the developer -
-I am parvez developer of the LIZA . Thank you for visiting my profile and visiting this project repository.❤️
+I am parvez , developer of LIZA AI ChatBot . Thank you for visiting my profile and visiting this project repository.❤️
                                 
