@@ -1,6 +1,6 @@
 import google.generativeai as genai
 import telebot
-from requirment import *
+from keys import *
 
 #Fetch api keys and bot token from requirment module
 TELEGRAM_BOT_TOKEN =TELEGRAM_BOT_TOKEN
